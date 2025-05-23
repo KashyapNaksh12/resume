@@ -1,65 +1,83 @@
 # Nitin Kumar Kashyap – DevOps | Cloud Engineer
 
-🚀 **DevOps Engineer | Cloud Infrastructure Specialist | 4+ Years Experience**  
-📍 Gurugram, India | 📧 Nakshkashyap12@gmail.com | 📱 +91-9997922463  
-🔗 [AWS Certified Solutions Architect – Professional](https://www.credly.com/badges/05f12152-8fc4-4568-a36e-2b0191b1040b/linked_in_profile)
+📍 Gurugram, India  
+📧 Nakshkashyap12@gmail.com | 📱 +91-9997922463  
+🎓 B.Tech – Teerthanker Mahaveer University (2016–2020)  
+🔗 [AWS Certification Badge](https://www.credly.com/badges/05f12152-8fc4-4568-a36e-2b0191b1040b/linked_in_profile)
 
 ---
 
-## 🔧 Tech Stack
-**Cloud:** AWS, Azure, GCP, DigitalOcean  
-**IaC:** Terraform, AWS CloudFormation  
-**CI/CD:** GitHub Actions, GitLab CI, Jenkins, Azure DevOps  
-**Containers & Orchestration:** Docker, Docker Compose, Kubernetes, KOPS, KubeSphere  
-**Monitoring:** Prometheus, Grafana, ELK (Elasticsearch, Logstash, Kibana), Filebeat  
-**Version Control:** Git (GitHub, GitLab)  
-**Scripting & OS:** Bash, Python, Ubuntu, Amazon Linux
+## 💡 Professional Summary
+DevOps Engineer with 4+ years of experience in automating cloud infrastructure, building secure CI/CD pipelines, and managing IaC using tools like Terraform, Kubernetes, GitOps, and AWS. Skilled in improving deployment speed, observability, and team collaboration.
 
 ---
 
-## 💼 Work Experience
+## 🛠️ Technical Skills
+
+- **Cloud**: AWS, Azure, GCP, DigitalOcean  
+- **IaC**: Terraform, AWS CloudFormation  
+- **CI/CD**: Jenkins, GitHub Actions, GitLab CI/CD, Azure DevOps  
+- **Containers & Orchestration**: Docker, Docker Compose, Kubernetes, KOPS, KubeSphere  
+- **Monitoring & Logging**: Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Filebeat  
+- **Version Control**: Git (GitHub, GitLab)  
+- **OS & Scripting**: Ubuntu, Amazon Linux, Bash, Python
+
+---
+
+## 💼 Experience
 
 ### Calance Software Pvt. Ltd. – *Sr. Software Engineer II (Cloud & Infra)*  
-**Feb 2023 – Present**  
-- Led cloud initiatives using AWS and Azure with Terraform & GitOps  
-- Built scalable CI/CD pipelines, reducing deployment time by 40%  
-- Integrated monitoring (Prometheus, Grafana) and secure secrets (Vault)
+📅 Feb 2023 – Present  
+- Led cloud automation and GitOps-based IaC using Terraform and Azure DevOps  
+- Deployed and maintained CI/CD pipelines on AWS and Azure  
+- Reduced deployment time by 40%, improved uptime using Prometheus + Grafana  
+- Integrated Keycloak and Vault for secure access and secrets
 
-### Oodles Technologies – *DevOps Consultant*  
-**Jan 2021 – Jan 2022**  
-- Automated cloud infra using Jenkins, GitLab, Docker, and Ansible  
-- Improved uptime and CI workflows  
-- Awarded *Star of the Quarter* and *Rising Star*
+### Oodles Technologies – *Sr. Associate DevOps Consultant*  
+📅 Jan 2021 – Jan 2022  
+- Built CI/CD pipelines (Jenkins, GitLab, Azure DevOps)  
+- Automated infrastructure using Docker, Ansible  
+- Secured pipelines via Azure Key Vault  
+- 🏆 *Star of the Quarter*, *Rising Star of the Quarter*
 
-### Xenonstack – *DevOps Intern*  
-**Oct 2020 – Dec 2020**  
-- Gained hands-on experience with Kubernetes, Docker, Git, and Linux
-
----
-
-## 🛠️ Projects
-
-- **GitOps Framework**: Full-stack IaC and app deployment automation using GitOps, CI/CD, Terraform  
-- **Genesis**: Managed Kubernetes clusters with advanced observability and security tooling  
-- **Rainrock Scheduling**: Designed AWS infra with Elastic Beanstalk, S3, and CloudWatch  
-- **Ausfinex**: Deployed Azure CI/CD pipelines integrated with Vault for secret management
+### Xenonstack – *Cloud & DevOps Intern*  
+📅 Oct 2020 – Dec 2020  
+- Gained hands-on experience with Docker, Git, Linux, Kubernetes  
+- Supported system automation and deployments
 
 ---
 
-## 🏆 Certifications & Awards
+## 🚀 Projects
 
-- **AWS Certified Solutions Architect – Professional**  
-- *Star of the Quarter* & *Rising Star* – Oodles Technologies (2022)
+### GitOps Deployment Framework  
+- Automated deployments with GitOps, Terraform, and CI/CD  
+- Boosted security, reliability, and rollback mechanisms
+
+### Genesis  
+- Managed Kubernetes clusters with Vault, Prometheus, Keycloak  
+- Integrated Dockerized services with Mainflux IoT platform
+
+### Rainrock Scheduling  
+- Designed AWS infrastructure (Elastic Beanstalk, S3, Route 53, CloudWatch)  
+- Built CI/CD pipelines for continuous delivery
+
+### Ausfinex  
+- Created secure CI/CD flows on Azure  
+- Protected credentials via Azure Vault integration
 
 ---
 
-## 📘 Education
+## 🏆 Awards
 
-**B.Tech, Teerthanker Mahaveer University**  
-Graduated: 2020
+- ⭐ Star of the Quarter – Oodles Technologies (2022)  
+- 🌟 Rising Star of the Quarter – Oodles Technologies (2022)
 
 ---
 
-> Passionate about cloud automation, DevOps culture, and building resilient systems.  
-> Open to collaborations, mentoring, and challenging DevOps/Cloud roles.
+## ✅ Certifications
 
+- **AWS Certified Solutions Architect – Professional**
+
+---
+
+> *References available on request.*
